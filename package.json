@@ -7,7 +7,7 @@
     "dangerous-html": "0.1.12"
   },
   "scripts": {
-    "build":"parcel build"
+    "build":"parcel build index.html"
   },
   "devDependencies": {}
 }
